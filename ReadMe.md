@@ -10,7 +10,7 @@
 
 Main - #F6F1F1 <br>
 Sub Main - #19A7CE <br>
-Secondary - # 146C94 <br>
+Secondary - #146C94 <br>
 SubSecondary - #000000 <br>
 
 ## Text

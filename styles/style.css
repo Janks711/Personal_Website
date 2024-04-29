@@ -1,0 +1,69 @@
+body{
+    background-color: #EEEDEB;
+    font-family: "Comfortaa", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#Header {
+    background-image:
+        linear-gradient(to left, #EEEDEB60, #EEEDEB 50%),
+        url('../assets/Images/Banner.jpg');
+    background-size: cover;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: auto;
+}
+
+#ContactMe {
+    background-color: #747264;
+    text-align: center;
+}
+
+#ContactMe h2 {
+    color: #E0CCBE;
+}
+
+.Portrait {
+    border-radius: 50%;
+}
+
+
+h1 {
+    font-family: "Michroma", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    color: #747264;
+
+}
+
+h2 {
+    font-family: "Michroma", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    color: #747264;
+}
+
+h3 {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: #3C3633;
+}
+
+@media only screen and (min-device-width: 400px) {
+    .Contact-img {
+        max-width: 100%;
+    }
+}
+
+.Contact-img {
+    max-width: 50%;
+}
