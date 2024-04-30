@@ -73,3 +73,12 @@ h3 {
 .Contact-img {
     max-width: 50%;
 }
+
+.game-card {
+    width: 18rem;
+}
+
+.game-card img {
+    height: 175px;
+    object-fit: cover;
+}
