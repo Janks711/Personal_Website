@@ -1,0 +1,50 @@
+body {
+    background-color: #191A19;
+}
+
+h1 {
+    color: #4E9F3D;
+    font-family: "Jersey 10", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h2 {
+    color: #1E5128;
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.card-title {
+    color: #4E9F3D;
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.card-text {
+    color: #D8E9A8;
+    font-family: "Mulish", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.game-card {
+    background-color: #191A19;
+    width: 18rem;
+}
+
+.game-card img{
+    height: 200px;
+    object-fit: cover;
+}
+
+.jersey-10-regular {
+    font-family: "Jersey 10", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
