@@ -33,6 +33,13 @@ h3 {
     color: #3C3633;
 }
 
+.card-title {
+    font-family: "Montserrat", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+        color: #747264;
+}
 #Header {
     background-image:
         linear-gradient(to left, #EEEDEB60, #EEEDEB 50%),

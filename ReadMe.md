@@ -3,15 +3,15 @@
 ## Fonts
 
 - Main - Michroma
-- Sub Main - 
+- Sub Main - Montserrat
 - Text - Comfortaa
 
 ## Color Pallette
 
-Main - #F6F1F1 <br>
-Sub Main - #19A7CE <br>
-Secondary - #146C94 <br>
-SubSecondary - #000000 <br>
+Main - #EEEDEB <br>
+Sub Main - #747264 <br>
+Secondary - #3C3633 <br>
+SubSecondary - #E0CCBE <br>
 
 ## Text
 
